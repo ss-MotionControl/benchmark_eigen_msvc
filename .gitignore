@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/benchmark_eigen_msvc/v16
+/.vs/benchmark_eigen_msvc/
 /Debug
 /Release

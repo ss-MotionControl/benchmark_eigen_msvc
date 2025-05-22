@@ -18,5 +18,13 @@
     <ClCompile Include="benchmark_eigen_msvc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="code.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
